@@ -1,0 +1,1 @@
+mysqldump -B -uroot %1 > dump_%1_%.sql

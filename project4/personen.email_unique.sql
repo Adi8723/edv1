@@ -1,0 +1,5 @@
+
+
+USE inf3;
+
+ALTER TABLE personen MODIFY email VARCHAR(120) UNIQUE NOT NULL;
